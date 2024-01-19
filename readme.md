@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 # The Wild Oasis
 
 Main Project in Jonas Schemdtmann's Ultimate React Course.
+"# the-wild-oasis" 
